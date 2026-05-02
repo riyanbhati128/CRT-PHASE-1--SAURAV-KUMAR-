@@ -16,5 +16,4 @@ int main() {         // 2. The entry point of every C++ program
     // 5. Display the result
     std::cout << "The sum is: " << sum << std::endl;
 
-    return 0;        // 6. Signal that the program finished successfully
 }
