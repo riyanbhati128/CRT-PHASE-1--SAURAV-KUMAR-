@@ -1,0 +1,2 @@
+//write a cpp program to create a student mangagement system where we store and display a student details 
+//1>name 2>rollno 3>reg 4>email id 5>phone no 6>marks using parameterized constructor and display the details using a member function. 
