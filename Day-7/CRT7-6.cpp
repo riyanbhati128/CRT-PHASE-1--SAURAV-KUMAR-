@@ -1,0 +1,1 @@
+//create a college management system in that in parent class containing name, age and two derive class student and teacher contains there data then also create a virtual function in that they belong to which category either student or teacher and create a virtual function in that they are part of college otherwise they are part of derive class 
